@@ -17,14 +17,14 @@ export const metadata = {
   description:
     "Instant IP geolocation for developers. Get country, city, region, coordinates, ISP, timezone and more. One REST endpoint. Zero auth. Free forever.",
 
-  metadataBase: new URL("https://ip-geo-backend.onrender.com"),
+  metadataBase: new URL("https://ip-geo-phi.vercel.app"),
 
   // ── Open Graph (Facebook, LinkedIn, WhatsApp, Slack previews) ──────────────
   openGraph: {
     title:       "IPGEO.API — Free IP Geolocation API",
     description:
       "Instant IP geolocation for developers. Country, city, coordinates, ISP and more. One endpoint. Zero auth. Free forever.",
-    url:         "https://ip-geo-backend.onrender.com",
+    url:         "https://ip-geo-phi.vercel.app",
     siteName:    "IPGEO.API",
     locale:      "en_US",
     type:        "website",
@@ -63,7 +63,7 @@ export const metadata = {
 
   // ── Canonical ────────────────────────────────────────────────────────────────
   alternates: {
-    canonical: "https://ip-geo-backend.onrender.com",
+    canonical: "https://ip-geo-phi.vercel.app",
   },
 
   // ── Extra meta tags ──────────────────────────────────────────────────────────

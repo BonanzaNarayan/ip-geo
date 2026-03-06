@@ -15,13 +15,13 @@ export const metadata = {
   description:
     "Full API reference for IPGEO.API. Endpoints, request parameters, response fields, code examples in JavaScript, Python, PHP and cURL, and error codes.",
 
-  metadataBase: new URL("https://ip-geo-backend.onrender.com"),
+  metadataBase: new URL("https://ip-geo-phi.vercel.app"),
 
   openGraph: {
     title:       "API Documentation — IPGEO.API",
     description:
       "Complete reference docs for the IPGEO.API geolocation REST API. Endpoints, fields, code examples and error codes.",
-    url:         "https://ip-geo-backend.onrender.com/docs",
+    url:         "https://ip-geo-phi.vercel.app/docs",
     siteName:    "IPGEO.API",
     locale:      "en_US",
     type:        "website",
@@ -56,7 +56,7 @@ export const metadata = {
   },
 
   alternates: {
-    canonical: "https://ip-geo-backend.onrender.com/docs",
+    canonical: "https://ip-geo-phi.vercel.app/docs",
   },
 
   keywords: [
